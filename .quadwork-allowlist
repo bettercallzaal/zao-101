@@ -1,0 +1,15 @@
+# Touchable paths (one glob per line)
+*.html
+style.css
+images/**
+content/**
+README.md
+
+# OFF LIMITS (agents must not modify):
+# .env*
+# .github/**
+# .git/**
+# vercel.json
+# package.json
+# CLAUDE.md
+# .quadwork-allowlist
