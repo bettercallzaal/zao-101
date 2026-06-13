@@ -218,6 +218,13 @@ footer {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
 }
 
+/* Ecosystem page */
+.eco-bucket-note { color: var(--ink-2); font-size: 13px; font-style: italic; margin: -2px 0 12px; }
+.eco-list { margin-bottom: 8px; }
+.eco-link { font-size: 13px; }
+.eco-link a { color: var(--gold); }
+.eco-link em { color: var(--ink-2); font-style: italic; }
+
 @media (max-width: 600px) {
   .topnav { padding: 12px 16px; }
   .topnav nav { gap: 12px; }
