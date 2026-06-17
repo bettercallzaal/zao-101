@@ -21,10 +21,12 @@ export default function PillarsPage() {
         ZTalent Artist Organization. The ZAO exists because artists needed a
         community that took them seriously.
       </p>
-      <div className="placeholder">
-        TODO: write what "artist org" means in practice - release collabs,
-        shared resources, cyphers, ZAOstock.
-      </div>
+      <p>
+        The ZAO is an artist organization first. Musicians, producers, and
+        visual artists release together, collaborate on each other's work, and
+        share distribution. Artists backing artists - the community exists for
+        them before anything else.
+      </p>
 
       <h2 id="autonomous-org">02 - Autonomous Org</h2>
       <p>
@@ -32,10 +34,12 @@ export default function PillarsPage() {
         Respect tokens (OG + ZOR). On-chain when it matters, off-chain when it
         does not.
       </p>
-      <div className="placeholder">
-        TODO: explain fractals, OREC, how decisions actually get made. One
-        concrete example.
-      </div>
+      <p>
+        The ZAO runs itself. Members recognize each other's contributions in a
+        weekly Fractal (Mondays 6pm EST), and that recognition - Respect - is
+        what gives decisions weight, instead of a top-down boss. A fuller
+        explainer of the Fractal and how Respect drives decisions is coming.
+      </p>
 
       <h2 id="operating-system">03 - Operating System</h2>
       <p>
@@ -67,10 +71,13 @@ export default function PillarsPage() {
         Everything is in the open. Other music communities can fork the org and
         ship their own version.
       </p>
-      <div className="placeholder">
-        TODO: link the GitHub orgs. Show the fork example. Explain why open
-        source matters here (data ownership, artist leverage).
-      </div>
+      <p>
+        Everything The ZAO builds is open source and forkable. ZAO OS - the app
+        you're in - is MIT-licensed, so another music community can fork the
+        whole org and ship their own version. Code:{" "}
+        <a href="https://github.com/bettercallzaal">github.com/bettercallzaal</a>
+        . Live: <a href="https://zaoos.com">zaoos.com</a>.
+      </p>
 
       <p>
         <Link href="/">Home</Link> &middot;{" "}
