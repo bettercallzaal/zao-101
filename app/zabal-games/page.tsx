@@ -73,7 +73,10 @@ export default function ZabalGamesPage() {
           <strong>August - Finals.</strong> Judging and showcase.
         </li>
       </ul>
-      <p className="eco-bucket-note">TODO: confirm exact dates.</p>
+      <p>
+        ZABAL Games runs in three phases across the summer: June (bootcamp),
+        July (build-a-thon), and August (finals).
+      </p>
 
       <h2>The hub</h2>
       <p>
@@ -81,8 +84,7 @@ export default function ZabalGamesPage() {
         status - so anyone can point their coding agent at it and build on top.
       </p>
       <p className="eco-link">
-        <a href="https://theballgames.com">theballgames.com</a>{" "}
-        <em>(TODO: confirm this is the live/canonical URL)</em>
+        <a href="https://zabalgamez.com">zabalgamez.com</a>
       </p>
 
       <h2>Build with us</h2>

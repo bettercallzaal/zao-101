@@ -21,10 +21,12 @@ export default function FaqPage() {
       </p>
 
       <h3>Is The ZAO a label?</h3>
-      <div className="placeholder">
-        TODO: honest answer. Not a label in the traditional sense. What it is
-        instead.
-      </div>
+      <p>
+        Not in the traditional sense. A label signs artists and takes ownership
+        of the work. The ZAO is the opposite - artists keep their work and own a
+        share of the community. You get distribution, collaborators, and tools,
+        without giving up your masters or your rights.
+      </p>
 
       <h3>What's ZABAL?</h3>
       <p>
@@ -39,22 +41,27 @@ export default function FaqPage() {
       </p>
 
       <h3>What's a fractal meeting?</h3>
-      <div className="placeholder">
-        TODO: Monday 6pm EST. Small breakout groups. Respect allocation. Why
-        it's different from a voice call.
-      </div>
+      <p>
+        A weekly gathering, Mondays 6pm EST. Members break into small groups and
+        recognize the week's contributions; that recognition (Respect) carries
+        governance weight. A full mechanics explainer is coming soon.
+      </p>
 
       <h3>Can I fork this?</h3>
-      <div className="placeholder">
-        TODO: yes, link the repos, explain what you'd be forking (the ZAO OS
-        codebase vs the community itself).
-      </div>
+      <p>
+        Yes. ZAO OS is open source (MIT) - you'd fork the whole stack: the gated
+        client, the music player, the agents, and the research library. Clone
+        it, point it at your community, and ship. Start at{" "}
+        <a href="https://github.com/bettercallzaal">github.com/bettercallzaal</a>
+        .
+      </p>
 
       <h3>Where do I hear the music?</h3>
-      <div className="placeholder">
-        TODO: point at the music player, specific artists. Embed an example if
-        possible.
-      </div>
+      <p>
+        The ZAO has its own music player and radio built into the app - hear ZAO
+        artists at <a href="https://zaoos.com">zaoos.com</a>. An embedded player
+        example is coming.
+      </p>
 
       <p>
         <Link href="/">Home</Link>
